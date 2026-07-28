@@ -10,11 +10,11 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Graduate
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning Laravel from Beginner to Advanced
-- 🚀 Interested in MERN, Spring Boot, CI/CD, K8S, Laravel, AWS, Docker, and DevOps
-- 📚 Always learning new technologies and building projects
+🎓 Software Engineering Graduate
+💻 Passionate about Full Stack Web Development
+🌱 Currently learning Laravel from Beginner to Advanced
+🚀 Interested in MERN, Spring Boot, CI/CD, K8S, Laravel, AWS, Docker, and DevOps
+📚 Always learning new technologies and building projects
 
 ## 🛠️ Tech Stack
 
@@ -49,10 +49,15 @@ Welcome to my GitHub profile!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 💻 Most Used Languages
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamuboy99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chamuboy99&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamuboy99&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chamuboy99&theme=tokyonight&hide_border=true"/>
 </p>
 
 Thanks for visiting my profile! ⭐
