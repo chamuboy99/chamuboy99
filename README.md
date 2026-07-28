@@ -49,4 +49,10 @@ Welcome to my GitHub profile!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chamuboy99&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 Thanks for visiting my profile! ⭐
