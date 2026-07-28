@@ -24,12 +24,6 @@ Welcome to my GitHub profile!
 - 🚀 Interested in MERN, Spring Boot, CI/CD, K8S, Laravel, AWS, Docker, and DevOps
 - 📚 Always learning new technologies and building projects
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamuboy99&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
 ## 🛠️ Tech Stack
 
 ### Languages
