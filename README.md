@@ -71,7 +71,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/chamuditha-tennakoon/
+- 💼 LinkedIn: https://www.linkedin.com/in/chamuditha-tennakoon/
 - 📧 Email:[ chamuditha.tennakoon.dev.gmail.com](mailto:chamuditha.tennakoon.dev.gmail.com)
 
 Thanks for visiting my profile! ⭐
