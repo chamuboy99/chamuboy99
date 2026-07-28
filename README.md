@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_profile.png" alt="Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Chamuditha Tennakoon
 
 ### Software Engineer | Full Stack Developer
