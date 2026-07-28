@@ -10,11 +10,11 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-🎓 Software Engineering Graduate
-💻 Passionate about Full Stack Web Development
-🌱 Currently learning Laravel from Beginner to Advanced
-🚀 Interested in MERN, Spring Boot, CI/CD, K8S, Laravel, AWS, Docker, and DevOps
-📚 Always learning new technologies and building projects
+- 🎓 Software Engineering Graduate
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning Laravel from Beginner to Advanced
+- 🚀 Interested in MERN, Spring Boot, CI/CD, K8S, Laravel, AWS, Docker, and DevOps
+- 📚 Always learning new technologies and building projects
 
 ## 🛠️ Tech Stack
 
