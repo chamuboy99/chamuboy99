@@ -63,21 +63,15 @@ Welcome to my GitHub profile!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytic
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chamuboy99&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamuboy99&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=chamuboy99&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/chamuditha-tennakoon/
-- 🌐 Portfolio: https://yourportfolio.com
-- 📧 Email: chamuditha.tennakoon.dev.gmail.com
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chamuboy99&theme=tokyonight&hide_border=true"/>
-</p>
+- 📧 Email:[ chamuditha.tennakoon.dev.gmail.com](mailto:chamuditha.tennakoon.dev.gmail.com)
 
 Thanks for visiting my profile! ⭐
