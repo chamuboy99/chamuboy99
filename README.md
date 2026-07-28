@@ -73,5 +73,6 @@ Welcome to my GitHub profile!
 
 - 💼 LinkedIn: https://www.linkedin.com/in/chamuditha-tennakoon/
 - 📧 Email:[ chamuditha.tennakoon.dev.gmail.com](mailto:chamuditha.tennakoon.dev.gmail.com)
+- 📞 Phone: [+94 71 042 4806](tel:+94710424806)
 
 Thanks for visiting my profile! ⭐
