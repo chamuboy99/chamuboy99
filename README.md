@@ -16,8 +16,6 @@
 
 Welcome to my GitHub profile!
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Graduate
@@ -26,15 +24,11 @@ Welcome to my GitHub profile!
 - 🚀 Interested in MERN, Spring Boot, CI/CD, K8S, Laravel, AWS, Docker, and DevOps
 - 📚 Always learning new technologies and building projects
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chamuboy99&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -68,8 +62,6 @@ Welcome to my GitHub profile!
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
 
 ## 📈 GitHub Analytics
 
