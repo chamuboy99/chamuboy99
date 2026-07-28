@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Laravel+Developer;React+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chamuboy99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 # Hi 👋, I'm Chamuditha Tennakoon
 
 ### Software Engineer | Full Stack Developer
